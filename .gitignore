@@ -1,0 +1,16 @@
+.DS_Store
+
+# IDEs
+.vscode/
+.idea/
+
+# Secrets
+.env
+
+
+# Logs
+*.log
+
+# Temp / swap
+*.swp
+*~
