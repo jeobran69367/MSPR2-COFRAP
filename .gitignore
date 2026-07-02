@@ -1,16 +1,10 @@
-.DS_Store
-
-# IDEs
-.vscode/
-.idea/
-
-# Secrets
 .env
-
-
-# Logs
+.env.local
+.DS_Store
+__pycache__/
+*.py[cod]
+build/
+template/
+frontend/app/__pycache__/
 *.log
-
-# Temp / swap
-*.swp
-*~
+README copy 2.md
